@@ -1,4 +1,2 @@
-#!/bin/bash
-# A bash script to print the working directory
+#!bin/bash
 pwd
-echo Done!
